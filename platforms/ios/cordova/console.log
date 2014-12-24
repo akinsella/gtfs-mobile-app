@@ -1,0 +1,104 @@
+2014-12-22 17:30:57.994 gtfs-mobile-app[4097:29409] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Data/Application/71EBE341-4FF9-4BB4-8CF4-2E8D19C28C96/Library/Cookies/Cookies.binarycookies
+2014-12-22 17:30:58.056 gtfs-mobile-app[4097:29409] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 17:30:58.056 gtfs-mobile-app[4097:29409] Multi-tasking -> Device: YES, App: YES
+2014-12-22 17:30:58.058 gtfs-mobile-app[4097:29409] Unlimited access to network resources
+2014-12-22 17:30:58.060 gtfs-mobile-app[4097:29409] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-22 17:30:58.402 gtfs-mobile-app[4097:29409] Resetting plugins due to page load.
+2014-12-22 17:30:58.497 gtfs-mobile-app[4097:29409] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/7B3C9190-EDE6-4BA2-8FCB-60ABC257E629/gtfs-mobile-app.app/www/index.html
+2014-12-22 17:31:46.026 gtfs-mobile-app[4097:29409] Can't find keyplane that supports type 5 for keyboard iPhone-PortraitChoco-PhonePad; using 2470951658_PortraitChoco_iPhone-Complex-Pad_Default
+2014-12-22 17:34:51.065 gtfs-mobile-app[4279:31235] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Data/Application/D29F054F-3692-4077-8B70-B8371BB6314B/Library/Cookies/Cookies.binarycookies
+2014-12-22 17:34:51.133 gtfs-mobile-app[4279:31235] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 17:34:51.133 gtfs-mobile-app[4279:31235] Multi-tasking -> Device: YES, App: YES
+2014-12-22 17:34:51.134 gtfs-mobile-app[4279:31235] Unlimited access to network resources
+2014-12-22 17:34:51.135 gtfs-mobile-app[4279:31235] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-22 17:34:51.277 gtfs-mobile-app[4279:31235] Resetting plugins due to page load.
+2014-12-22 17:34:51.336 gtfs-mobile-app[4279:31235] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/ECEA0DFF-217E-4132-B925-83E3C8474804/gtfs-mobile-app.app/www/index.html
+2014-12-22 17:35:17.222 gtfs-mobile-app[4435:31778] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Data/Application/0F480752-C182-4724-9939-AF9591F466D8/Library/Cookies/Cookies.binarycookies
+2014-12-22 17:35:17.314 gtfs-mobile-app[4435:31778] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 17:35:17.314 gtfs-mobile-app[4435:31778] Multi-tasking -> Device: YES, App: YES
+2014-12-22 17:35:17.316 gtfs-mobile-app[4435:31778] Unlimited access to network resources
+2014-12-22 17:35:17.318 gtfs-mobile-app[4435:31778] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-22 17:35:17.434 gtfs-mobile-app[4435:31778] Resetting plugins due to page load.
+2014-12-22 17:35:17.494 gtfs-mobile-app[4435:31778] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/BA33AE01-FA81-4267-AEE0-BEC1D9F231D0/gtfs-mobile-app.app/www/index.html
+2014-12-22 17:35:29.999 gtfs-mobile-app[4590:32161] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Data/Application/2A42661F-A948-427B-9FD9-1342338D1109/Library/Cookies/Cookies.binarycookies
+2014-12-22 17:35:30.050 gtfs-mobile-app[4590:32161] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 17:35:30.050 gtfs-mobile-app[4590:32161] Multi-tasking -> Device: YES, App: YES
+2014-12-22 17:35:30.052 gtfs-mobile-app[4590:32161] Unlimited access to network resources
+2014-12-22 17:35:30.054 gtfs-mobile-app[4590:32161] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-22 17:35:30.187 gtfs-mobile-app[4590:32161] Resetting plugins due to page load.
+2014-12-22 17:35:30.248 gtfs-mobile-app[4590:32161] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/0FCF671B-769A-4C33-A067-FDC1AEDEB504/gtfs-mobile-app.app/www/index.html
+2014-12-22 19:29:38.277 gtfs-mobile-app[5448:49499] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Data/Application/28142D64-4CDE-48AE-83C1-CF966FCF3BEE/Library/Cookies/Cookies.binarycookies
+2014-12-22 19:29:38.338 gtfs-mobile-app[5448:49499] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-22 19:29:38.338 gtfs-mobile-app[5448:49499] Multi-tasking -> Device: YES, App: YES
+2014-12-22 19:29:38.339 gtfs-mobile-app[5448:49499] Unlimited access to network resources
+2014-12-22 19:29:38.340 gtfs-mobile-app[5448:49499] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-22 19:29:38.544 gtfs-mobile-app[5448:49499] Resetting plugins due to page load.
+2014-12-22 19:29:38.658 gtfs-mobile-app[5448:49499] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/F5ACBF13-622B-41AE-B6FF-B9F3E08C92BA/gtfs-mobile-app.app/www/index.html
+2014-12-22 19:31:39.496 gtfs-mobile-app[5448:49499] CDVWebViewDelegate: Navigation started when state=1
+2014-12-22 19:31:39.496 gtfs-mobile-app[5448:49499] Failed to load webpage with error: CDVWebViewDelegate: Navigation started when state=1
+2014-12-22 19:31:39.498 gtfs-mobile-app[5448:49499] Resetting plugins due to page load.
+2014-12-22 19:31:40.688 gtfs-mobile-app[5448:49499] Finished load of: http://www.reviewmylife.co.uk/blog/2014/12/22/high-speed-mandm-sorting-machine/
+2014-12-23 00:16:54.468 gtfs-mobile-app[7045:125590] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-23 00:16:54.470 gtfs-mobile-app[7045:125590] Multi-tasking -> Device: YES, App: YES
+2014-12-23 00:16:54.480 gtfs-mobile-app[7045:125590] Unlimited access to network resources
+2014-12-23 00:16:54.486 gtfs-mobile-app[7045:125590] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-23 00:16:54.958 gtfs-mobile-app[7045:125590] Resetting plugins due to page load.
+2014-12-23 00:16:55.157 gtfs-mobile-app[7045:125590] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/BC04A98C-2F84-4378-BA01-3E4D59E0C2F3/gtfs-mobile-app.app/www/index.html
+2014-12-23 11:54:26.597 gtfs-mobile-app[7045:214931] Communications error: <OS_xpc_error: <error: 0x2cdf5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2cdf83c> { length = 22, contents = "Connection interrupted" }
+}>
+2014-12-24 17:15:28.691 gtfs-mobile-app[36496:713142] Apache Cordova native platform version 3.7.0 is starting.
+2014-12-24 17:15:28.694 gtfs-mobile-app[36496:713142] Multi-tasking -> Device: YES, App: YES
+2014-12-24 17:15:28.704 gtfs-mobile-app[36496:713142] Unlimited access to network resources
+2014-12-24 17:15:28.710 gtfs-mobile-app[36496:713142] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2014-12-24 17:15:29.128 gtfs-mobile-app[36496:713142] Resetting plugins due to page load.
+2014-12-24 17:15:29.319 gtfs-mobile-app[36496:713142] Finished load of: file:///Users/akinsella/Library/Developer/CoreSimulator/Devices/8B468A2A-8799-45E6-B2BF-6D160D56511C/data/Containers/Bundle/Application/2B692643-C688-4EDF-8F61-BDFD389D207B/gtfs-mobile-app.app/www/index.html

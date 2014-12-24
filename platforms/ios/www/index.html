@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+	<meta name="mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+	<link rel="apple-touch-icon" href="res/icon/ios/icon-72-2x.png">
+
+	<title>Gtfs Mobile App</title>
+
+	<link rel="stylesheet" href="bower_components/framework7/dist/css/framework7.css">
+	<link rel="stylesheet" href="css/app.css">
+</head>
+
+<body class="platform-ios platform-cordova platform-webview">
+	<!-- Status bar overlay for fullscreen mode -->
+	<div class="statusbar-overlay"></div>
+
+  <!-- Left panel with cover effect-->
+  <!-- Left Panel with Reveal effect -->
+  <div class="panel panel-left panel-reveal">
+    <div class="list-block">
+      <div class="list-group">
+        <ul>
+          <li class="item-content list-panel-all close-panel item-link">
+            <div class="item-media"><i class="icon ion-ios7-paper"></i></div>
+            <div class="item-inner">
+              <div class="item-title">All Contacts</div>
+            </div>
+          </li>
+          <li class="item-content list-panel-favorites close-panel item-link">
+            <div class="item-media"><i class="icon ion-ios7-star"></i></div>
+            <div class="item-inner">
+              <div class="item-title">Favorites</div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- views -->
+	<div class="views">
+		<!-- Put panels-overlay and left-panel with view inside of views-->
+		<!-- Panels overlay-->
+		<div class="panel-overlay"></div>
+		<!-- Left panel with reveal effect-->
+		<div class="panel panel-left panel-cover">
+			<!-- Left view-->
+			<div class="view view-left navbar-through">
+				<div class="navbar theme-white">
+					<div class="navbar-inner">
+						<div class="left"><a href="#" class="link icon-only"><i class="icon icon-bars"></i></a>
+						</div>
+						<div class="center sliding">
+							<span class="mobile-title">Stations</span>
+						</div>
+					</div>
+				</div>
+				<div class="pages">
+					<div class="page" data-page="index">
+
+						<!-- Search bar -->
+						<form class="searchbar"
+                  data-search-list=".list-block-search"
+                  data-search-in=".item-title"
+                  data-searchbar-found=".searchbar-found"
+                  data-searchbar-not-found=".searchbar-not-found">
+							<div class="searchbar-input">
+								<input type="search" placeholder="Search">
+								<a href="#" class="searchbar-clear"></a>
+							</div>
+							<a href="#" class="searchbar-cancel">Cancel</a>
+						</form>
+
+            <!-- Search bar overlay-->
+            <div class="searchbar-overlay"></div>
+
+						<div class="page-content pull-to-refresh-content">
+							<div class="pull-to-refresh-layer">
+								<div class="preloader"></div>
+								<div class="pull-to-refresh-arrow"></div>
+							</div>
+
+							<!-- Search bar overlay-->
+							<div class="searchbar-overlay"></div>
+
+							<!-- no result -->
+							<div class="content-block searchbar-not-found">
+								Nothing found
+							</div>
+
+							<div class="list-block media-list stations-list list-block-search searchbar-found"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-- template7 templates -->
+	<script type="text/template7" id="stationsTemplate">
+		<ul>
+		{{#each this}}
+			<li class="swipeout">
+				<div class="swipeout-content">
+					<a href="stop.html?id={{id}}" data-contextName="stops.{{@index}}" class="item-content item-link">
+						<div class="item-inner">
+							<div class="item-title-row">
+								<div class="item-title">{{stop_name}}</div>
+              </div>
+						</div>
+					</a>
+				</div>
+			</li>
+		{{/each}}
+		</ul>
+	</script>
+
+
+	<!-- libraries -->
+	<script src="bower_components/moment/moment.js"></script>
+	<script>
+		window.moment = moment;
+	</script>
+	<script src="bower_components/framework7/dist/js/framework7.js"></script>
+	<script src="js/gtfs-api.js"></script>
+	<script src="js/app.js"></script>
+</body>
+
+</html>

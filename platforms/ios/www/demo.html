@@ -1,0 +1,55 @@
+<html>
+<head>
+  <title>Demo</title>
+  <style>
+
+    body {
+      background: #2F2F2F;
+    }
+
+    #container {
+      width: 1024px;
+      height: 600px;
+      margin: 0 auto;
+    }
+
+    #PhoneView {
+      position: relative;
+      margin: 0 auto;
+      top: 0;
+      width: 400px;
+      height: 800px;
+      vertical-align: top;
+    }
+
+    .device {
+      position:absolute;
+      width: 400px;
+      height: 800px;
+      background-image: url('img/iphone6.png');
+      background-position: center;
+      background-repeat: no-repeat;
+      transform-origin: -0% -0%;
+      transform: scale3d( 1, 1, 1 );
+    }
+
+    .iframe {
+      position:absolute;
+      border: 4px solid #000;
+      top: 130px;
+      left: 47px;
+      width: 298px;
+      height: 532px;
+    }
+  </style>
+</head>
+<body>
+    <div id="container">
+      <div id="PhoneView">
+        <div class="device">
+          <iframe id="PhoneFrame" class="iframe" src="index.html"></iframe>
+        </div>
+      </div>
+    </div>
+</body>
+</html>

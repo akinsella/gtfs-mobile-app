@@ -1,0 +1,28 @@
+{
+  "name": "gtfs-mobile-webapp",
+  "version": "0.1.0",
+  "authors": [
+    "Alexis Kinsella <alexis.kinsella@gmail.com>"
+  ],
+  "description": "gtfs mobile web app",
+  "main": "index.html",
+  "keywords": [
+    "gtfs",
+    "cordova",
+    "ios",
+    "Framework7",
+    "webapp",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "http://github.com/helyx-io/gtfs-mobile-app",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "framework7": "~0.10.0",
+    "moment": "~2.8.4"
+  }
+}
